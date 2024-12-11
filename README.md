@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![logo](https://raw.githubusercontent.com/PSYCHOCHARLIE/PSYCHOCHARLIE/refs/heads/main/DALL%C2%B7E%202024-12-11%2022.03.38%20-%20A%20futuristic%20machine%20learning-themed%20illustration%20designed%20for%20GitHub%2C%20featuring%20abstract%20neural%20networks%2C%20glowing%20data%20flow%20patterns%2C%20and%20vibrant%20AI%20.webp)
+![logo](https://github.com/PSYCHOCHARLIE/PSYCHOCHARLIE/blob/main/12.png)
 <h1 align="center">Hi 👋, I'm Rishikesh Yadav</h1>
 <h3 align="center">A Data Science and Machine Learning Enthu undergrad!</h3>
 
